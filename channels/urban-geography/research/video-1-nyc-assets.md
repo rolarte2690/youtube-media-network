@@ -25,3 +25,40 @@
 ## 3. Historical Archival Visuals
 - [ ] **Erie Canal Construction/History**: Historical illustrations or early photos of canal barges on the Hudson (Source: Library of Congress / NY Public Library Digital Collections).
 - [ ] **Early 20th Century Skyline Construction**: Photos of skyscraper foundations being anchored directly into Manhattan Schist bedrock.
+
+1. Geological Bedrock Maps (Manhattan Schist & Skyline Gap)
+Asset: USGS Bedrock Surface Elevation & Overburden Thickness Map of NYC (2023).
+
+Search Term: USGS bedrock-surface elevation and overburden thickness maps of New York City
+
+Visual Value: Directly shows where bedrock is at the surface (Midtown & Financial District) versus where sediment goes deep (SoHo/Greenwich Village gap).
+
+Asset: Central Park Bedrock & Manhattan Schist Outcrop Map (USGS / ResearchGate).
+
+Search Term: Central Park bedrock geological map Manhattan Schist
+
+Visual Value: Pinpoints the exact exposed schist formations in Central Park (like Rat Rock / Umpire Rock).
+
+2. Harbor & Appalachian Breach Maps
+Asset: NOAA Nautical Chart 12334 (New York Harbor Upper Bay & The Narrows).
+
+Source: NOAA Office of Coast Survey / Wikimedia Commons.
+
+Search Term: NOAA Nautical Chart 12334 New York Harbor Upper Bay Narrows
+
+Visual Value: Provides bathymetric depth lines showing how deep and protected the anchorage is inside the Narrows.
+
+Asset: US Geologic Survey Physical Elevation Map of the Appalachian Mountain Range.
+
+Search Term: Appalachian mountains physical relief map Hudson river valley gap
+
+Visual Value: Clearly illustrates the Hudson-Mohawk corridor as the only sea-level break cutting through the Appalachians.
+
+3. Erie Canal & Historical Trade Routes
+Asset: Historical Erie Canal Route Map (1840).
+
+Source: New York State Archives / Wikimedia Commons (Public Domain).
+
+Search Term: Map of Erie Canal 1840 Wikimedia Commons public domain
+
+Visual Value: Shows the artificial water route linking Lake Erie (Buffalo) through the Mohawk Valley into the Hudson River and Manhattan.
